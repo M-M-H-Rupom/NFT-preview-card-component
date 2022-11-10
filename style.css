@@ -11,6 +11,8 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
+    height: 100vh;
+    
 
 }
 .container{
@@ -18,6 +20,7 @@ body{
     padding: 1.5rem;
     width: 360px;
     border-radius: 1.2rem;
+    
 }
 .img img{
     width: 310px;
@@ -46,6 +49,7 @@ body{
 .img div:hover{
     opacity: 1;
     cursor: pointer;
+    border-radius: 8px;
 }
 
 .img div img{
