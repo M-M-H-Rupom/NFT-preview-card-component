@@ -1,6 +1,6 @@
 ### Links
 
-- Live Site URL: [live site URL here](https://mohrajul.github.io/NFT-preview-card-component/)
+- Live Site URL: [live site URL here](https://m-m-h-rupom.github.io/NFT-preview-card-component/)
 
 
 # Frontend Mentor - NFT preview card component
